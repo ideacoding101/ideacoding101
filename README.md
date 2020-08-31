@@ -1,15 +1,15 @@
-### Hi there, I'm Biel - aka [ideacoding101][github] 👋
+### Hi there, I'm Biel - aka [ideacoding101](github) 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, Code Enthusiast and Content Creator!
 
-- 🔭 I’m currently working on new content for Instagram[instagram]!
+- 🔭 I’m currently working on new content for [Instagram](instagram)!
 - 🌱 I’m currently learning backend web development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Teach and help as many people as possible
-- ⚡ Fun fact: I can teach you and help you learn Python here[fiverr]
+- ⚡ Fun fact: I can teach you and help you learn Python [here](fiverr)
 
 ### Connect with me:
 

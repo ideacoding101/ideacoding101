@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm ideacoding101</h1>
 <h3 align="center">I'm a Student, Code Enthusiast and Content Creator!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ideacoding101" alt="ideacoding101" /> </p>
-
 ![https://www.fiverr.com/ideacoding](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%231DBF73&label=WANNA%20LEARN%20PYTHON%3F&logo=Fiverr&style=for-the-badge)
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23E4405F&label=DAILY%20PYTHON%20CONTENT&logo=Instagram&style=for-the-badge)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ideacoding101" alt="ideacoding101" /> </p>
+
 
 - 🔭 I’m currently working on [new content for Instagram!](https://www.instagram.com/ideacoding101/)
 
@@ -23,7 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ideacoding101&show_icons=true" alt="ideacoding101" /></p>
 
-<p align="center">
-<a href="https://instagram.com/ideacoding101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ideacoding101" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ideacoding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ideacoding" height="30" width="30" /></a>
-</p>

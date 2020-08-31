@@ -13,9 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ideacoding101 | YouTube" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="ideacoding101 | Fiverr" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/fiverr.svg" />][fiverr]
 [<img align="left" alt="ideacoding | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ideacoding101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ideacoding101 | Gmail" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -51,3 +53,4 @@
 [youtube]: https://www.youtube.com/channel/UCwF2neCernMKopJHCWAt2aQ/featured
 [github]: htps://www.github.com/ideacoding101
 [instagram]: https://www.instagram.com/ideacoding101/
+[gmail]: mailto:ideacoding.contact@gmail.com

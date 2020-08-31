@@ -1,27 +1,30 @@
 
 <h1 align="center">Hi 👋, I'm ideacoding101</h1>
-<h3 align="center">I'm a Student, Code Enthusiast and Content Creator!</h3>
+<h3 align="left">I'm a Student, Code Enthusiast and Content Creator!</h3>
 
 ![https://www.fiverr.com/ideacoding](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%231DBF73&label=WANNA%20LEARN%20PYTHON%3F&logo=Fiverr&style=for-the-badge)
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23E4405F&label=DAILY%20PYTHON%20CONTENT&logo=Instagram&style=for-the-badge)
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23FF0000&label=FOLLOW%20ME%20ON%20YOUTUBE%21&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23D14836&label=CONNECT%20WITH%20ME&logo=Gmail&logoColor=%23D14836&style=for-the-badge)
 
 
 - 🔭 I’m currently working on [**new content for Instagram!**](https://www.instagram.com/ideacoding101/)
 
 - 🌱 I’m currently learning **backend web development**
 
-- 👯 I’m looking to collaborate on **Open Source pojects**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 🤝 I’m looking for help with **learning ethical hacking**
 
 - 💬 Ask me about **any doubts you have**
 
-- 👨‍💻 All of my projects are available at **my github repositories**
+- 👨‍💻 All of my projects are available on [**my github repositories**](https://github.com/ideacoding101?tab=repositories)
+
+- ⚡ Fun fact: **You can hire me by clicking** [**here**](https://www.fiverr.com/ideacoding)
 
 
 
-<h3 align="center">Tools I use: </h3>
+<h3 align="left">Tools I use: </h3>
 
 
 

@@ -1,7 +1,7 @@
 ### Hi there, I'm Biel - aka [ideacoding101](github) 👋
 
 ![https://www.fiverr.com/ideacoding](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%231DBF73&label=WANNA%20LEARN%20PYTHON%3F&logo=Fiverr&style=for-the-badge)
-![https://www.instagram.com/ideacoding101/](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23E4405F&label=DAILY%20PYTHON%20CONTENT&logo=Instagram&style=for-the-badge)
 ## I'm a Student, Code Enthusiast and Content Creator!
 
 - 🔭 I’m currently working on new content for [Instagram](instagram)!

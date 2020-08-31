@@ -37,19 +37,8 @@
 
 ---
 
-### 📸 Latest Instagram posts
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideacoding101&layout=compact)](https://github.com/ideacoding101)
 
-<!-- YOUTUBE:START -->
-- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more content...](instagram)
-
----
 
 [fiverr]: https://www.fiver.com/ideacoding
 [youtube]: https://www.youtube.com/channel/UCwF2neCernMKopJHCWAt2aQ/featured

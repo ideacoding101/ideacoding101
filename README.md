@@ -33,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideacoding101)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ideacoding101&show_icons=true" alt="ideacoding101" /></p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ideacoding101)](https://github.com/anuraghazra/github-readme-stats)

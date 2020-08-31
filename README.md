@@ -24,19 +24,12 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.spec.whatwg.org/multipage/)
-
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.sqlite.org/index.html)
-
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] (https://www.gnu.org/software/bash/)
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://www.vim.org/)
 
 <br />
@@ -44,7 +37,7 @@
 
 ---
 
-### 📺 
+### 📸 Latest Instagram posts
 
 <!-- YOUTUBE:START -->
 - [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
@@ -54,7 +47,7 @@
 - [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](instagram)
+➡️ [more content...](instagram)
 
 ---
 

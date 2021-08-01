@@ -25,7 +25,17 @@
     <img src="https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23D14836&label=contact%20me&logo=gmail&logoColor=%23D14836&style=for-the-badge"
         alt="Gmail">
   </a>
-
+  
+   <a href="https://ideacoding.medium.com/">
+    <img src="https://img.shields.io/website?down_color=black&down_message=up&label=read%20my%20articles&logo=Medium&style=for-the-badge&up_color=black&up_message=up&url=https%3A%2F%2Fshields.io"
+        alt="Medium">
+   </a>
+  
+   <a href="https://www.tiktok.com/@ideacoding">
+    <img src="https://img.shields.io/website?color=%23EE1D52&down_color=%23000000&down_message=up&label=visit%20my%20tiktok&logo=TikTok&style=for-the-badge&up_color=%23000000&up_message=up&url=https%3A%2F%2Fshields.io"
+        alt="TikTok">
+   </a>
+  
 </p>
 
 - 🔭 I’m currently working on [**new content for Instagram!**](https://www.instagram.com/ideacoding101/)
